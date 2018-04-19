@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  QuizAssignment
-//
-//  Created by Yogesh Chalodiya on 2015-10-10.
-//  Copyright (c) 2015 Yogesh Chalodiya. All rights reserved.
-//
 
 import UIKit
 
